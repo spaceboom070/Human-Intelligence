@@ -11,3 +11,8 @@ This project uses has an AI feature embedded in functionz.py, if you wish for an
 Since this is a hackathon project, and we have like 1 developer, the builds without AI will probably release later. 
 
 I also know for a fact that if you're on GitHub reading this you probably know enough to remove the AI features urself or ask AI to do it.
+
+# Documentation
+You can acces the documentation from **repo/Docs+**. 
+There's a pdf and a .ink version and a future .md version of the documentation.
+PDF and .ink versions are the same but the .md version is different
