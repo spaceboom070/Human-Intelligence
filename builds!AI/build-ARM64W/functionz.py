@@ -19,7 +19,7 @@ def get_geotime_data(compatibility, longitude = False, latitude = False, time=Fa
             #getting time in meteomatics format
             #Data source: Function input / datetime.datetime.now
             if time == False:
-                time = str(f'{str(datetime.datetime.now()).split(" ")[0]}T00:00:00Z')
+                time = str(f'{str(datetime.datetime.now()).replace(' ', 'T')}Z')
             return {
                 'coordinates' : coordinates,
                 'time' : time,

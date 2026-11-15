@@ -18,3 +18,9 @@ I also know for a fact that if you're on GitHub reading this you probably know e
 You can acces the documentation from **repo/Docs+**.
 There's a pdf and a .ink version and a future .md version of the documentation.
 PDF and .ink versions are the same but the .md version is different
+
+## Meteomatics custom URL support
+
+You can go to <https://www.meteomatics.com/url-creator/> and choose the parameters you want and enter that as your custom URL to get results tailored to your parameters. Some features may not work as expected with new parameters
+!!!When creating a custom URL, don't forget to select JSON as data type for it to work correctly, using custom URL only works on Meteomatics and unsupported parameters won't get in the data pool for calculations.
+This is really a niche beta feature so like don't use it.
