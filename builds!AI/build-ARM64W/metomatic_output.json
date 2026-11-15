@@ -1,0 +1,113 @@
+{
+    "version": "3.0",
+    "user": "hackathon_nasa_space_apps_kocatas_uzay",
+    "dateGenerated": "2026-11-15T12:40:21Z",
+    "status": "OK",
+    "data": [
+        {
+            "parameter": "t_2m_10y_mean:C",
+            "coordinates": [
+                {
+                    "lat": 30.703024,
+                    "lon": 36.886573,
+                    "dates": [
+                        {
+                            "date": "2026-11-15T00:00:00Z",
+                            "value": 13.5
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "parameter": "t_2m:C",
+            "coordinates": [
+                {
+                    "lat": 30.703024,
+                    "lon": 36.886573,
+                    "dates": [
+                        {
+                            "date": "2026-11-15T00:00:00Z",
+                            "value": 14.2
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "parameter": "hot_days:d",
+            "coordinates": [
+                {
+                    "lat": 30.703024,
+                    "lon": 36.886573,
+                    "dates": [
+                        {
+                            "date": "2026-11-15T00:00:00Z",
+                            "value": 144.0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "parameter": "summer_days:d",
+            "coordinates": [
+                {
+                    "lat": 30.703024,
+                    "lon": 36.886573,
+                    "dates": [
+                        {
+                            "date": "2026-11-15T00:00:00Z",
+                            "value": 196.0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "parameter": "heat_index:C",
+            "coordinates": [
+                {
+                    "lat": 30.703024,
+                    "lon": 36.886573,
+                    "dates": [
+                        {
+                            "date": "2026-11-15T00:00:00Z",
+                            "value": 14.2
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "parameter": "t_wet_bulb_globe:C",
+            "coordinates": [
+                {
+                    "lat": 30.703024,
+                    "lon": 36.886573,
+                    "dates": [
+                        {
+                            "date": "2026-11-15T00:00:00Z",
+                            "value": 11.0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "parameter": "cooling_degree_days:cdd",
+            "coordinates": [
+                {
+                    "lat": 30.703024,
+                    "lon": 36.886573,
+                    "dates": [
+                        {
+                            "date": "2026-11-15T00:00:00Z",
+                            "value": 2368.9
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
