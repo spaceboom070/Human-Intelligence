@@ -1,0 +1,14 @@
+Parameter	2000	2026	Change
+10-year mean temp (°C)	13.6	15.2	+1.6
+Temperature, t_2m (°C)	16.0	18.1	+2.1
+Heat index (°C)	16.0	18.1	+2.1
+Wet-bulb globe temp (°C)	15.0	17.2	+2.2
+Hot days	103	92	−11
+Summer days	163	144	−19
+Cooling degree days	2193.7	2100.6	−93.1 (−4.2%)
+
+AI Summary: 
+
+10-year mean (+1.6°C): This is the strongest evidence, since it averages ten years of data. A rise of about 1.6°C over 26 years is on the high side but consistent with the Mediterranean, one of the fastest-warming regions on Earth.
+Temperature, heat index and wet-bulb globe (+2.1 to +2.2°C): These agree with the 10-year mean. The heat index equals the air temperature because it’s too cool for humidity to add heat stress. The single-moment readings are also affected by that day’s weather, so treat them as supporting evidence rather than a precise measure of the trend.
+Hot days, summer days and cooling degree days (all lower): These point the opposite way, but I can’t tell which period the counts cover, so I wouldn’t use them as evidence either way. If they’re year-to-date counts, a single cooler or shorter summer would produce this drop, and one year can’t represent a 26-year trend.

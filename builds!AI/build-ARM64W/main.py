@@ -34,7 +34,7 @@ def main():
 
 def get_meteomatics_data(params):
     #Data sources: parameters -> Function input, coordinates -> functionz custom module
-    meteomatics_data = functionz.get_geotime_data('meteomatics', getLoc.latitude, getLoc.longitude)
+    meteomatics_data = functionz.get_geotime_data('meteomatics', getLoc.longitude, getLoc.latitude)
     formatted_params = ','.join(list(params.values()))
     url = f"https://api.meteomatics.com/{meteomatics_data['time']}/{formatted_params}/{meteomatics_data['coordinates']}/json"
     response = requests.get(url, auth=(meteomatics_data['username'], meteomatics_data['passkey']))

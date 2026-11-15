@@ -1,19 +1,19 @@
 {
     "version": "3.0",
     "user": "hackathon_nasa_space_apps_kocatas_uzay",
-    "dateGenerated": "2026-11-15T12:37:43Z",
+    "dateGenerated": "2026-11-15T14:38:33Z",
     "status": "OK",
     "data": [
         {
             "parameter": "t_2m_10y_mean:C",
             "coordinates": [
                 {
-                    "lat": 30.703024,
-                    "lon": 36.886573,
+                    "lat": 36.886573,
+                    "lon": 30.703024,
                     "dates": [
                         {
                             "date": "2000-11-11T00:00:00Z",
-                            "value": 11.1
+                            "value": 13.6
                         }
                     ]
                 }
@@ -23,12 +23,12 @@
             "parameter": "t_2m:C",
             "coordinates": [
                 {
-                    "lat": 30.703024,
-                    "lon": 36.886573,
+                    "lat": 36.886573,
+                    "lon": 30.703024,
                     "dates": [
                         {
                             "date": "2000-11-11T00:00:00Z",
-                            "value": 7.4
+                            "value": 16.0
                         }
                     ]
                 }
@@ -38,12 +38,12 @@
             "parameter": "hot_days:d",
             "coordinates": [
                 {
-                    "lat": 30.703024,
-                    "lon": 36.886573,
+                    "lat": 36.886573,
+                    "lon": 30.703024,
                     "dates": [
                         {
                             "date": "2000-11-11T00:00:00Z",
-                            "value": 147.0
+                            "value": 103.0
                         }
                     ]
                 }
@@ -53,12 +53,12 @@
             "parameter": "summer_days:d",
             "coordinates": [
                 {
-                    "lat": 30.703024,
-                    "lon": 36.886573,
+                    "lat": 36.886573,
+                    "lon": 30.703024,
                     "dates": [
                         {
                             "date": "2000-11-11T00:00:00Z",
-                            "value": 193.0
+                            "value": 163.0
                         }
                     ]
                 }
@@ -68,12 +68,12 @@
             "parameter": "heat_index:C",
             "coordinates": [
                 {
-                    "lat": 30.703024,
-                    "lon": 36.886573,
+                    "lat": 36.886573,
+                    "lon": 30.703024,
                     "dates": [
                         {
                             "date": "2000-11-11T00:00:00Z",
-                            "value": 7.4
+                            "value": 16.0
                         }
                     ]
                 }
@@ -83,12 +83,12 @@
             "parameter": "t_wet_bulb_globe:C",
             "coordinates": [
                 {
-                    "lat": 30.703024,
-                    "lon": 36.886573,
+                    "lat": 36.886573,
+                    "lon": 30.703024,
                     "dates": [
                         {
                             "date": "2000-11-11T00:00:00Z",
-                            "value": 4.1
+                            "value": 15.0
                         }
                     ]
                 }
@@ -98,12 +98,12 @@
             "parameter": "cooling_degree_days:cdd",
             "coordinates": [
                 {
-                    "lat": 30.703024,
-                    "lon": 36.886573,
+                    "lat": 36.886573,
+                    "lon": 30.703024,
                     "dates": [
                         {
                             "date": "2000-11-11T00:00:00Z",
-                            "value": 2300.1
+                            "value": 2193.7
                         }
                     ]
                 }
